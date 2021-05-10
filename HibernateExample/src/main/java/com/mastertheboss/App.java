@@ -17,7 +17,7 @@ public static void main(String[] args) {
        // Session session = HibernateUtil.getSessionFactory().openSession();
        Session session= new Configuration().configure().buildSessionFactory().openSession();
       
-       
+       //hhjhhhjhjhjhjhj
        session.beginTransaction();
  
         Department department = new Department("j2ee");
