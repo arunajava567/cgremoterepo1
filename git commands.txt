@@ -1,0 +1,26 @@
+git init
+
+git add README.md
+
+git status
+
+got add  Hello.java 
+
+git commit -m "first commit"
+git branch -M main
+
+
+git remote add origin https://github.com/arunajava567/cgremoterepo1.git
+
+git config --global user.name "arunajava567"
+
+git config --global user.password "xxxxxxx"
+
+git push -u origin main
+
+
+git clone
+
+git fetch
+
+git pull
